@@ -10,7 +10,7 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/stanidesis/toastyplugin.git"
+      "url": "git+https://github.com/narisp/ToastyPlugin.git"
     },
     "keywords": [
       "Toast",
@@ -31,5 +31,5 @@
     "bugs": {
       "url": "https://github.com/stanidesis/toastyplugin/issues"
     },
-    "homepage": "https://github.com/stanidesis/toastyplugin/"
+    "homepage": "https://github.com/narisp/ToastyPlugin"
   }
