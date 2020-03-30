@@ -1,1 +1,0 @@
-package com.stanleyidesis.cordova.plugin;
